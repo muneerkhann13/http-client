@@ -1,0 +1,18 @@
+### IDEA ###
+*.iml
+*.idea
+*.iws
+
+
+### Eclipse ###
+.classpath
+.project
+.settings/
+
+### Maven ###
+log/
+target/
+
+
+### Mac ###
+.DS_Store		
